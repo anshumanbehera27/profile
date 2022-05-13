@@ -1,7 +1,7 @@
 ## Hello, I'm [Anshuman Behera!](https://google.com) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
 ## just a Introduction:
-Hi, I'm Anshuman Behera, A Student and Learner 🚀 from Odisha India, currently 💻 doing my undergraduate BTECH (1st year) from Lovely professional university and I am passionate about technology and want to learn & explore new technologies.Love to solve problem . 
+Hi, I'm Anshuman Behera, A Mentor,Student and Learner 🚀 from Odisha India, currently 💻 doing my undergraduate BTECH (1st year) from Lovely professional university and I am passionate about technology and want to learn & explore new technologies.Love to solve problem . 
 
 ### Talking about Personal Stuffs:
 
